@@ -6,9 +6,9 @@ Data analysis using Juypiter Notebooks/Google Colab of two csv files.
 - AppleStore.csv
 
 
-The data is from a few years ago is from a Dataquest project that introduces how to use Juypter Notebooks along with how to edit data on csv files.
+The data is from a few years ago and taken from a Dataquest.io project that introduces how to use Juypter Notebooks along with how to edit data on csv files.  
 
-Data from the spreadsheets included data from around the world.  Some of the analysis done for the project included:
+Data from the spreadsheets included data from around the world.  Analysis task completed for the project included:
 
 <br>
 <br>
