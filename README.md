@@ -1,5 +1,4 @@
 # 100daysofcode
 Python coding examples performed during 100 days of code
 
-This is a test...
-Waiting for changes. this is a test.
+Mostly will be coding example from books and course I'm taking.  See blog: drusho.github.io for more details.
