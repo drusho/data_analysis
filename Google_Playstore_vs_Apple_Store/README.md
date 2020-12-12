@@ -6,7 +6,7 @@ Data analysis using Juypiter Notebooks/Google Colab of two csv files.
 - AppleStore.csv
 
 
-The data is from a few years ago and taken from a Dataquest.io project that introduces how to use Juypter Notebooks along with how to edit data on csv files.  
+The data is from a few years ago and taken from a Dataquest.io project that introduces how to use Juypter Notebooks along with how to edit data on csv files.
 
 Data from the spreadsheets included data from around the world.  Analysis task completed for the project included:
 
@@ -22,5 +22,5 @@ Data from the spreadsheets included data from around the world.  Analysis task c
 **Removing duplicate file names.**
 - Some applications in the spreadsheets were duplicated.  It was discovered that many of these applications were duplicated based on number appstore reviews.  All information for each duplicate app was the same except the the number of reviews.  Over time the number of reviews would increase.  A max of all review could be determined and then delete any app this did not equal the max review number.
 
-**Correcting for incorrect data input.**
-- It was discovered that the len of the header did not match all rows with the Android csv.  This incorrect row was removed and a check was performed on the Apple store to make sure data rows matched the header length.
+**Error Correction**
+- Data from the Google Playstore included some erros with data types.  Pandas unique and sort functions were used to analysis the 'Rating' and 'Categories' columns to find datatypes that didn't match.  The 'Rating's column had an error in which one rating was 19, when it should have been within a range of 0-5.
