@@ -1,6 +1,5 @@
-# 100daysofcode
-Python coding examples performed during 100 days of code
+# Data Analysis
 
-Mostly will be coding example from books and course I'm taking.  
 
-See blog [drusho.github.io](https://drusho.github.io/Reading_List/) for more details.
+- Data Analysis samples from csv files found in csv folder. 
+- Analysis is run through Google Collab notebooks
