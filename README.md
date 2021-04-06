@@ -14,22 +14,16 @@ seaboard, and numpy.
 
  
 
- 
-
 [Employee Exit
 Surveys](https://colab.research.google.com/drive/16CZva16IHUjw11A5hU9JW9tFgxFsp0rg)
 
-Practicing cleaning data taken from the Queensland Government.  Employments
+Practicing cleaning data taken from the Queensland Government. Employments
 status of new and temporary was analyzed along with most popular job titles.
-
- 
 
  
 
 [Practicing SQL using CIA Facebook
 Data](https://colab.research.google.com/drive/1d5nKF02D4QeV7wwv0bg3uN5FOKxn2YDV)
-
- 
 
  
 
@@ -45,8 +39,6 @@ in STEM fields.
 
  
 
- 
-
 [Recent
 Grads](https://colab.research.google.com/drive/1TmnXmpR0bPNjhmD7hj0AtkCD4PRnDwJa)
 
@@ -55,8 +47,6 @@ between 2010 and 2012. The raw csv data comes from FiveThirtyEight's github.
 They used this raw data to help write the article: [The Economic Guide to
 Picking a College
 Major](https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/)
-
- 
 
  
 
@@ -83,3 +73,26 @@ following:
  
 
  
+
+**Future projects to explore:**
+
+1. Florida FSA data taken from FLDOE.  Compare state, county, and individual
+school data.
+
+FSA data wasn’t collected for 2019-2020, but will be collected for 2020-2021
+school year.
+
+Problems to look at:
+
+-   How will has COVID and extended time away from school effected testing
+    scores?
+
+-   Is the any other publicly available data that can be used in addition to FSA
+    to help predict/determine academic performance?
+
+ 
+
+2. Twitter and NLP
+
+Using trending topic or popular user(s), what types of information can be
+determined by analysis tweets.   Python Libraries to explore: Twint, Texthero
