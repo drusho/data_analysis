@@ -1,7 +1,9 @@
 Data Analysis Notebook Projects
 ===============================
 [Top Posts on Hacker News](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
-Data Analysis and Visualization of a dataset taken from Kaggle.  The dataset contains information of all posts from Sep. 26, 2016.  The goals of the project was to practice cleaning and organizing data using pandas.  The data was analyzed for correlations and as well as find out what were average days/times for popular posts.
+
+Data Analysis and Visualization of a dataset taken from Kaggle.  The dataset contains information of all posts from Sep. 26, 2016.  The goals of the project was to practice cleaning and organizing data using pandas.  The data was analyzed for correlations and as well as find out what were average days/times for popular posts.  Seaborn was used to visualize all data.
+
 
 [Exploring Ebay Car
 Sales](https://colab.research.google.com/drive/1pHZDxpXzIgK3bFvpHgFnvmcQEyx4nGP2)
@@ -70,29 +72,4 @@ following:
 
 -   *Do posts created at a certain time receive more comments on average?*
 
- 
 
- 
-
-**Future projects to explore:**
-
-1. Florida FSA data taken from FLDOE.  Compare state, county, and individual
-school data.
-
-FSA data wasn’t collected for 2019-2020, but will be collected for 2020-2021
-school year.
-
-Problems to look at:
-
--   How will has COVID and extended time away from school effected testing
-    scores?
-
--   Is the any other publicly available data that can be used in addition to FSA
-    to help predict/determine academic performance?
-
- 
-
-2. Twitter and NLP
-
-Using trending topic or popular user(s), what types of information can be
-determined by analysis tweets.   Python Libraries to explore: Twint, Texthero
