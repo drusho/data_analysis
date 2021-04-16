@@ -1,6 +1,6 @@
 Data Analysis Notebook Projects
 ===============================
-[Top Posts on Hacker News](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
+[HackerNews Top Post Trends](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
 
 Data Analysis and Visualization of a dataset taken from Kaggle.  The dataset contains information of all posts from Sep. 26, 2016.  The goals of the project was to practice cleaning and organizing data using pandas.  The data was analyzed for correlations and as well as find out what were average days/times for popular posts.  Seaborn was used to visualize all data.
 
@@ -14,7 +14,6 @@ the German eBay website.
 Project goals were to explore how to clean and analyze data using pandas,
 seaboard, and numpy.
 
- 
 
 [Employee Exit
 Surveys](https://colab.research.google.com/drive/16CZva16IHUjw11A5hU9JW9tFgxFsp0rg)
@@ -23,11 +22,9 @@ Practicing cleaning data taken from the Queensland Government. Employments
 status of new and temporary was analyzed along with most popular job titles.
 
  
-
 [Practicing SQL using CIA Facebook
 Data](https://colab.research.google.com/drive/1d5nKF02D4QeV7wwv0bg3uN5FOKxn2YDV)
 
- 
 
 [Visualizing The Gender Gap In College
 Degrees](https://colab.research.google.com/drive/1PlI-u4ZUnBlCiT42ufaI9LP8UQSXUuEZ)
@@ -51,7 +48,6 @@ Picking a College
 Major](https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/)
 
  
-
 [Fandango Move
 Reviews](https://colab.research.google.com/drive/1nZg7kCNbGCytypYivUIol3UyHiukZwsw)
 
@@ -61,7 +57,6 @@ fivethirtyeight over potiental bias in movie reviews by Fandango.
 The data used in the notebook was taken from Fivethirtyeight's Github.
 
  
-
 [Exploring Hacker News
 Posts](https://colab.research.google.com/drive/1VzxUKTIXDI3qIIdN3V4uWEpFhjg8DV3H)
 
