@@ -1,7 +1,7 @@
 Data Analysis Notebook Projects
 ===============================
-
- 
+[Top Posts on Hacker News](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
+Data Analysis and Visualization of a dataset taken from Kaggle.  The dataset contains information of all posts from Sep. 26, 2016.  The goals of the project was to practice cleaning and organizing data using pandas.  The data was analyzed for correlations and as well as find out what were average days/times for popular posts.
 
 [Exploring Ebay Car
 Sales](https://colab.research.google.com/drive/1pHZDxpXzIgK3bFvpHgFnvmcQEyx4nGP2)
