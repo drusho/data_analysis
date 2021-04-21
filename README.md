@@ -1,5 +1,17 @@
 Data Analysis Notebook Projects
 ===============================
+
+[Reddit /r/ Politics Analysis](https://colab.research.google.com/drive/1iJMfqWmndtQesGG0-eSoEYx8e1pbgYjb?usp=sharing)
+
+Data Analaysis, NLP, Visualizations
+The purpose of this project was to practice using APIs to scrape data from the internet. For this project Reddit's /r/politics was used since it has a very active user base. Some additional goals for the project included:
+* Finding the top posts by score/upvotes
+* Determining if a high score correlates with a high number of comments
+* Discover the popular words used in all post titles
+* Semantics analysis of posts and determine if they are negative, positive, or neutral?
+
+
+
 [HackerNews Top Post Trends](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
 
 Data Analysis and Visualization of a dataset taken from Kaggle.  The dataset contains information of all posts from Sep. 26, 2016.  The goals of the project was to practice cleaning and organizing data using pandas.  The data was analyzed for correlations and as well as find out what were average days/times for popular posts.  Seaborn was used to visualize all data.
