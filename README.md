@@ -1,9 +1,13 @@
 Data Analysis Notebook Projects
 ===============================
 
+
+![/r/poltics](/assets/redditpolitics.png){: width="250" }
+
 [Reddit /r/ Politics Analysis](https://colab.research.google.com/drive/1iJMfqWmndtQesGG0-eSoEYx8e1pbgYjb?usp=sharing)
 
-Data Analaysis, NLP, Visualizations
+
+<p><i>Data Analaysis, NLP, Visualizations</i></p>
 The purpose of this project was to practice using APIs to scrape data from the internet. For this project Reddit's /r/politics was used since it has a very active user base. Some additional goals for the project included:
 * Finding the top posts by score/upvotes
 * Determining if a high score correlates with a high number of comments
@@ -11,6 +15,7 @@ The purpose of this project was to practice using APIs to scrape data from the i
 * Semantics analysis of posts and determine if they are negative, positive, or neutral?
 
 
+<p>
 
 [HackerNews Top Post Trends](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
 
