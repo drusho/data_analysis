@@ -2,7 +2,7 @@ Data Analysis Notebook Projects
 ===============================
 
 
-![/r/poltics](/assets/redditpolitics.png){: width="250" }
+<img src="/assets/redditpolitics.png"  width="200"/>
 
 [Reddit /r/ Politics Analysis](https://colab.research.google.com/drive/1iJMfqWmndtQesGG0-eSoEYx8e1pbgYjb?usp=sharing)
 
