@@ -1,7 +1,21 @@
 Data Analysis Notebook Projects
 ===============================
 
- 
+[Reddit /r/ Politics Analysis](https://colab.research.google.com/drive/1iJMfqWmndtQesGG0-eSoEYx8e1pbgYjb?usp=sharing)
+
+Data Analaysis, NLP, Visualizations
+The purpose of this project was to practice using APIs to scrape data from the internet. For this project Reddit's /r/politics was used since it has a very active user base. Some additional goals for the project included:
+* Finding the top posts by score/upvotes
+* Determining if a high score correlates with a high number of comments
+* Discover the popular words used in all post titles
+* Semantics analysis of posts and determine if they are negative, positive, or neutral?
+
+
+
+[HackerNews Top Post Trends](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
+
+Data Analysis and Visualization of a dataset taken from Kaggle.  The dataset contains information of all posts from Sep. 26, 2016.  The goals of the project was to practice cleaning and organizing data using pandas.  The data was analyzed for correlations and as well as find out what were average days/times for popular posts.  Seaborn was used to visualize all data.
+
 
 [Exploring Ebay Car
 Sales](https://colab.research.google.com/drive/1pHZDxpXzIgK3bFvpHgFnvmcQEyx4nGP2)
@@ -12,7 +26,6 @@ the German eBay website.
 Project goals were to explore how to clean and analyze data using pandas,
 seaboard, and numpy.
 
- 
 
 [Employee Exit
 Surveys](https://colab.research.google.com/drive/16CZva16IHUjw11A5hU9JW9tFgxFsp0rg)
@@ -21,11 +34,9 @@ Practicing cleaning data taken from the Queensland Government. Employments
 status of new and temporary was analyzed along with most popular job titles.
 
  
-
 [Practicing SQL using CIA Facebook
 Data](https://colab.research.google.com/drive/1d5nKF02D4QeV7wwv0bg3uN5FOKxn2YDV)
 
- 
 
 [Visualizing The Gender Gap In College
 Degrees](https://colab.research.google.com/drive/1PlI-u4ZUnBlCiT42ufaI9LP8UQSXUuEZ)
@@ -49,7 +60,6 @@ Picking a College
 Major](https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/)
 
  
-
 [Fandango Move
 Reviews](https://colab.research.google.com/drive/1nZg7kCNbGCytypYivUIol3UyHiukZwsw)
 
@@ -59,7 +69,6 @@ fivethirtyeight over potiental bias in movie reviews by Fandango.
 The data used in the notebook was taken from Fivethirtyeight's Github.
 
  
-
 [Exploring Hacker News
 Posts](https://colab.research.google.com/drive/1VzxUKTIXDI3qIIdN3V4uWEpFhjg8DV3H)
 
@@ -70,29 +79,4 @@ following:
 
 -   *Do posts created at a certain time receive more comments on average?*
 
- 
 
- 
-
-**Future projects to explore:**
-
-1. Florida FSA data taken from FLDOE.  Compare state, county, and individual
-school data.
-
-FSA data wasn’t collected for 2019-2020, but will be collected for 2020-2021
-school year.
-
-Problems to look at:
-
--   How will has COVID and extended time away from school effected testing
-    scores?
-
--   Is the any other publicly available data that can be used in addition to FSA
-    to help predict/determine academic performance?
-
- 
-
-2. Twitter and NLP
-
-Using trending topic or popular user(s), what types of information can be
-determined by analysis tweets.   Python Libraries to explore: Twint, Texthero
