@@ -2,80 +2,74 @@ Data Analysis Notebook Projects
 ===============================
 
 
-<img src="/assets/redditpolitics.png"  width="200"/>
+<img src="/assets/redditpolitics.png"  width="250"/>
 
-[Reddit /r/ Politics Analysis](https://colab.research.google.com/drive/1iJMfqWmndtQesGG0-eSoEYx8e1pbgYjb?usp=sharing)
-
+### [Reddit /r/ Politics Analysis](https://colab.research.google.com/drive/1iJMfqWmndtQesGG0-eSoEYx8e1pbgYjb?usp=sharing)
 
 <p><i>Data Analaysis, NLP, Visualizations</i></p>
+
 The purpose of this project was to practice using APIs to scrape data from the internet. For this project Reddit's /r/politics was used since it has a very active user base. Some additional goals for the project included:
 * Finding the top posts by score/upvotes
 * Determining if a high score correlates with a high number of comments
 * Discover the popular words used in all post titles
 * Semantics analysis of posts and determine if they are negative, positive, or neutral?
+<br>
+<br>
 
-
-<p>
-
-[HackerNews Top Post Trends](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
+### [HackerNews Top Post Trends](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
 
 Data Analysis and Visualization of a dataset taken from Kaggle.  The dataset contains information of all posts from Sep. 26, 2016.  The goals of the project was to practice cleaning and organizing data using pandas.  The data was analyzed for correlations and as well as find out what were average days/times for popular posts.  Seaborn was used to visualize all data.
+<br>
+<br>
 
+### [Exploring Ebay Car Sales](https://colab.research.google.com/drive/1pHZDxpXzIgK3bFvpHgFnvmcQEyx4nGP2)
 
-[Exploring Ebay Car
-Sales](https://colab.research.google.com/drive/1pHZDxpXzIgK3bFvpHgFnvmcQEyx4nGP2)
-
-Explores csv data from used cars on eBay Kleinanzeigen, a classifieds section of
-the German eBay website.
+Explores csv data from used cars on eBay Kleinanzeigen, a classifieds section of the German eBay website.
 
 Project goals were to explore how to clean and analyze data using pandas,
 seaboard, and numpy.
+<br>
+<br>
 
-
-[Employee Exit
-Surveys](https://colab.research.google.com/drive/16CZva16IHUjw11A5hU9JW9tFgxFsp0rg)
+### [Employee Exit Surveys](https://colab.research.google.com/drive/16CZva16IHUjw11A5hU9JW9tFgxFsp0rg)
 
 Practicing cleaning data taken from the Queensland Government. Employments
 status of new and temporary was analyzed along with most popular job titles.
-
+<br>
+<br>
  
-[Practicing SQL using CIA Facebook
-Data](https://colab.research.google.com/drive/1d5nKF02D4QeV7wwv0bg3uN5FOKxn2YDV)
+### [Practicing SQL using CIA Facebook Data](https://colab.research.google.com/drive/1d5nKF02D4QeV7wwv0bg3uN5FOKxn2YDV)
+
+<br>
+<br>
+
+### [Visualizing The Gender Gap In College Degrees](https://colab.research.google.com/drive/1PlI-u4ZUnBlCiT42ufaI9LP8UQSXUuEZ)
+
+The data set comes from Randal Olson that cleaned data which was obtained from the Department of Education Statistics. This data contains the percentage of bachelor's degrees that were granted to women from 1972 to 2012.
+
+The focus of the data set is to grain a clearer understanding of the gender gap in STEM fields.
+
+<br>
+<br>
 
 
-[Visualizing The Gender Gap In College
-Degrees](https://colab.research.google.com/drive/1PlI-u4ZUnBlCiT42ufaI9LP8UQSXUuEZ)
+### [Recent Grads](https://colab.research.google.com/drive/1TmnXmpR0bPNjhmD7hj0AtkCD4PRnDwJa)
 
-The data set comes from Randal Olson that cleaned data which was obtained from
-the Department of Education Statistics. This data contains the percentage of
-bachelor's degrees that were granted to women from 1972 to 2012.
-
-The focus of the data set is to grain a clearer understanding of the gender gap
-in STEM fields.
-
- 
-
-[Recent
-Grads](https://colab.research.google.com/drive/1TmnXmpR0bPNjhmD7hj0AtkCD4PRnDwJa)
-
-This dataset focuses on the job outcomes of students who graduated from college
-between 2010 and 2012. The raw csv data comes from FiveThirtyEight's github.
+This dataset focuses on the job outcomes of students who graduated from college between 2010 and 2012. The raw csv data comes from FiveThirtyEight's github.
 They used this raw data to help write the article: [The Economic Guide to
-Picking a College
-Major](https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/)
+Picking a College Major](https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/)
+<br>
+<br>
 
- 
-[Fandango Move
-Reviews](https://colab.research.google.com/drive/1nZg7kCNbGCytypYivUIol3UyHiukZwsw)
+### [Fandango Move Reviews](https://colab.research.google.com/drive/1nZg7kCNbGCytypYivUIol3UyHiukZwsw)
 
-The purpose of the notebook to review research orginally performed in 2015 by
-fivethirtyeight over potiental bias in movie reviews by Fandango.
+The purpose of the notebook to review research orginally performed in 2015 by fivethirtyeight over potiental bias in movie reviews by Fandango.
 
 The data used in the notebook was taken from Fivethirtyeight's Github.
-
+<br>
+<br>
  
-[Exploring Hacker News
-Posts](https://colab.research.google.com/drive/1VzxUKTIXDI3qIIdN3V4uWEpFhjg8DV3H)
+### [Exploring Hacker News Posts](https://colab.research.google.com/drive/1VzxUKTIXDI3qIIdN3V4uWEpFhjg8DV3H)
 
 This notebook compared two types of posts on Hackers Newsto determine the
 following:
