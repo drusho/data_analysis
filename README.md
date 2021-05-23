@@ -1,10 +1,9 @@
 Data Analysis Notebook Projects
 ===============================
 
+## [Reddit /r/ Politics Analysis](https://colab.research.google.com/drive/1iJMfqWmndtQesGG0-eSoEYx8e1pbgYjb?usp=sharing)
 
-<img src="/assets/redditpolitics.png"  height="250"/>
-
-### [Reddit /r/ Politics Analysis](https://colab.research.google.com/drive/1iJMfqWmndtQesGG0-eSoEYx8e1pbgYjb?usp=sharing)
+<img src="/assets/redditpolitics.png"  height="200"/>
 
 <p><i>Data Analaysis, NLP, Visualizations</i></p>
 
@@ -16,17 +15,18 @@ The purpose of this project was to practice using APIs to scrape data from the i
 <br>
 <br>
 
-<img src="/assets/hacker-news.jpg"  height="250"/>
+## [HackerNews Top Post Trends](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
 
-### [HackerNews Top Post Trends](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
+<img src="/assets/hacker-news.jpg"  height="200"/>
 
 Data Analysis and Visualization of a dataset taken from Kaggle.  The dataset contains information of all posts from Sep. 26, 2016.  The goals of the project was to practice cleaning and organizing data using pandas.  The data was analyzed for correlations and as well as find out what were average days/times for popular posts.  Seaborn was used to visualize all data.
 <br>
 <br>
 
-<img src="/assets/ebaymotors.jpg"  height="250"/>
 
-### [Exploring Ebay Car Sales](https://colab.research.google.com/drive/1pHZDxpXzIgK3bFvpHgFnvmcQEyx4nGP2)
+## [Exploring Ebay Car Sales](https://colab.research.google.com/drive/1pHZDxpXzIgK3bFvpHgFnvmcQEyx4nGP2)
+
+<img src="/assets/ebaymotors.jpg"  height="200"/>
 
 Explores csv data from used cars on eBay Kleinanzeigen, a classifieds section of the German eBay website.
 
@@ -35,25 +35,25 @@ seaboard, and numpy.
 <br>
 <br>
 
-<img src="/assets/exit_survey.png"  height="250"/>
+## [Employee Exit Surveys](https://colab.research.google.com/drive/16CZva16IHUjw11A5hU9JW9tFgxFsp0rg)
 
-### [Employee Exit Surveys](https://colab.research.google.com/drive/16CZva16IHUjw11A5hU9JW9tFgxFsp0rg)
+<img src="/assets/exit_survey.png"  height="200"/>
 
 Practicing cleaning data taken from the Queensland Government. Employments
 status of new and temporary was analyzed along with most popular job titles.
 <br>
 <br>
 
-<img src="/assets/CIA-World-Fact-Book.png"  height="250"/> 
+## [Practicing SQL using CIA Factbook Data](https://colab.research.google.com/drive/1d5nKF02D4QeV7wwv0bg3uN5FOKxn2YDV)
 
-### [Practicing SQL using CIA Factbook Data](https://colab.research.google.com/drive/1d5nKF02D4QeV7wwv0bg3uN5FOKxn2YDV)
+<img src="/assets/CIA-World-Fact-Book.png"  height="200"/> 
 
 <br>
 <br>
-
-<img src="/assets/gender_gap.jpg"  height="250"/>
 
 ### [Visualizing The Gender Gap In College Degrees](https://colab.research.google.com/drive/1PlI-u4ZUnBlCiT42ufaI9LP8UQSXUuEZ)
+
+<img src="/assets/gender_gap.jpg"  height="200"/>
 
 The data set comes from Randal Olson that cleaned data which was obtained from the Department of Education Statistics. This data contains the percentage of bachelor's degrees that were granted to women from 1972 to 2012.
 
@@ -62,9 +62,9 @@ The focus of the data set is to grain a clearer understanding of the gender gap 
 <br>
 <br>
 
-<img src="/assets/recent_graduation.jpg"  height="250"/>
-
 ### [Recent Grads](https://colab.research.google.com/drive/1TmnXmpR0bPNjhmD7hj0AtkCD4PRnDwJa)
+
+<img src="/assets/recent_graduation.jpg"  height="200"/>
 
 This dataset focuses on the job outcomes of students who graduated from college between 2010 and 2012. The raw csv data comes from FiveThirtyEight's github.
 They used this raw data to help write the article: [The Economic Guide to
@@ -72,19 +72,19 @@ Picking a College Major](https://fivethirtyeight.com/features/the-economic-guide
 <br>
 <br>
 
-<img src="/assets/fandango.jpg"  height="250"/>
-
 ### [Fandango Movie Reviews](https://colab.research.google.com/drive/1nZg7kCNbGCytypYivUIol3UyHiukZwsw)
+
+<img src="/assets/fandango.jpg"  height="200"/>
 
 The purpose of the notebook to review research orginally performed in 2015 by fivethirtyeight over potiental bias in movie reviews by Fandango.
 
 The data used in the notebook was taken from Fivethirtyeight's Github.
 <br>
 <br>
-
-<img src="/assets/the-hacker-news.jpg"  height="250"/> 
  
-### [Exploring Hacker News Posts](https://colab.research.google.com/drive/1VzxUKTIXDI3qIIdN3V4uWEpFhjg8DV3H)
+## [Exploring Hacker News Posts](https://colab.research.google.com/drive/1VzxUKTIXDI3qIIdN3V4uWEpFhjg8DV3H)
+
+<img src="/assets/the-hacker-news.jpg"  height="200"/> 
 
 This notebook compared two types of posts on Hackers Newsto determine the
 following:
