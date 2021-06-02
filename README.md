@@ -1,6 +1,16 @@
 Data Analysis Notebook Projects
 ===============================
 
+## [Google Trends for Mother's Days](https://colab.research.google.com/drive/14kyM1-cfbalR97Ec1YEye_6MwefMxONj?usp=sharing)
+
+Goal of this noteboook is to explore Google Trends for topics and keywords related to Mother's Day. Other holidays such as Father's Day and Valentines Day were also compared in the analysis.
+
+Interesting Findings:
+* Valentine's Day does not show the same popularity for Google Trends search as Mother's Day. There has been a downward trend in popularity for the words Valentines Day.
+* Top result for Mothers Day search was Mother's Daughter a Song by Miley Cyrus. This probably occured because the Miley Cyrus was a feature singer on Saturday Night Live the day before Mother's Day.
+<br>
+<br>
+
 ## [Reddit /r/ Politics Analysis](https://colab.research.google.com/drive/1iJMfqWmndtQesGG0-eSoEYx8e1pbgYjb?usp=sharing)
 
 <img src="/assets/redditpolitics.png"  height="150"/>
