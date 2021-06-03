@@ -9,11 +9,12 @@ Goal of this noteboook is to explore Google Trends for topics and keywords relat
 
 Interesting Findings:
 
-<img src="/assets/Google_Trends_plot1.png"  height="250"/>
+<img src="/assets/Google_Trends_plot1.png"  height="300"/>
 * Valentine's Day does not show the same popularity for Google Trends search as Mother's Day. There has been a downward trend in popularity for the words Valentines Day.
 
-<img src="/assets/Google_Trends_plot2.png"  height="150"/>
+<img src="/assets/Google_Trends_plot2.png"  height="300"/>
 * Top result for Mothers Day search was Mother's Daughter a Song by Miley Cyrus. This probably occured because the Miley Cyrus was a feature singer on Saturday Night Live the day before Mother's Day.
+<br>
 <br>
 <br>
 
