@@ -26,22 +26,7 @@ Top result for Mothers Day search was Mother's Daughter a Song by Miley Cyrus. T
 <br>
 <br>
 
-[<h3>2.Reddit /r/ Politics Analysis</h3>](https://colab.research.google.com/drive/1iJMfqWmndtQesGG0-eSoEYx8e1pbgYjb?usp=sharing)
-
-<img src="/assets/redditpolitics.png"  height="150"/>
-
-<p><i>Data Analaysis, NLP, Visualizations</i></p>
-
-The purpose of this project was to practice using APIs to scrape data from the internet. For this project Reddit's /r/politics was used since it has a very active user base. Some additional goals for the project included:
-* Finding the top posts by score/upvotes
-* Determining if a high score correlates with a high number of comments
-* Discover the popular words used in all post titles
-* Semantics analysis of posts and determine if they are negative, positive, or neutral?
-
-<br>
-<br>
-
-[<h3>3. HackerNews Top Post Trends</h3>](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
+[<h3>2. HackerNews Top Post Trends</h3>](https://colab.research.google.com/drive/1HEwirHdj8ynFC8whBrNv9z6Q6KaaHOm5?usp=sharing)
 
 <img src="/assets/hacker-news.jpg"  height="150"/>
 
@@ -50,7 +35,7 @@ Data Analysis and Visualization of a dataset taken from Kaggle.  The dataset con
 <br>
 <br>
 
-[<h3>4. Exploring Ebay Car Sales</h3>](https://colab.research.google.com/drive/1pHZDxpXzIgK3bFvpHgFnvmcQEyx4nGP2)
+[<h3>3. Exploring Ebay Car Sales</h3>](https://colab.research.google.com/drive/1pHZDxpXzIgK3bFvpHgFnvmcQEyx4nGP2)
 
 <img src="/assets/ebaymotors.jpg"  height="150"/>
 
@@ -62,7 +47,7 @@ seaboard, and numpy.
 <br>
 <br>
 
-[<h3>5. Employee Exit Surveys</h3>](https://colab.research.google.com/drive/16CZva16IHUjw11A5hU9JW9tFgxFsp0rg)
+[<h3>4. Employee Exit Surveys</h3>](https://colab.research.google.com/drive/16CZva16IHUjw11A5hU9JW9tFgxFsp0rg)
 
 <img src="/assets/exit_survey.png"  height="150"/>
 
@@ -72,14 +57,14 @@ status of new and temporary was analyzed along with most popular job titles.
 <br>
 <br>
 
-[<h3>6. Practicing SQL using CIA Factbook Data</h3>](https://colab.research.google.com/drive/1d5nKF02D4QeV7wwv0bg3uN5FOKxn2YDV)
+[<h3>5. Practicing SQL using CIA Factbook Data</h3>](https://colab.research.google.com/drive/1d5nKF02D4QeV7wwv0bg3uN5FOKxn2YDV)
 
 <img src="/assets/CIA-World-Fact-Book.png"  height="150"/> 
 
 <br>
 <br>
 
-[<h3>7. Visualizing The Gender Gap In College Degrees</h3>](https://colab.research.google.com/drive/1PlI-u4ZUnBlCiT42ufaI9LP8UQSXUuEZ)
+[<h3>6. Visualizing The Gender Gap In College Degrees</h3>](https://colab.research.google.com/drive/1PlI-u4ZUnBlCiT42ufaI9LP8UQSXUuEZ)
 
 <img src="/assets/gender_gap.jpg"  height="150"/>
 
@@ -90,7 +75,7 @@ The focus of the data set is to grain a clearer understanding of the gender gap 
 <br>
 <br>
 
-[<h3>8. Recent Grads</h3>](https://colab.research.google.com/drive/1TmnXmpR0bPNjhmD7hj0AtkCD4PRnDwJa)
+[<h3>7. Recent Grads</h3>](https://colab.research.google.com/drive/1TmnXmpR0bPNjhmD7hj0AtkCD4PRnDwJa)
 
 <img src="/assets/recent_graduation.jpg"  height="150"/>
 
@@ -101,7 +86,7 @@ Picking a College Major](https://fivethirtyeight.com/features/the-economic-guide
 <br>
 <br>
 
-[<h3>9. Fandango Movie Reviews</h3>](https://colab.research.google.com/drive/1nZg7kCNbGCytypYivUIol3UyHiukZwsw)
+[<h3>8. Fandango Movie Reviews</h3>](https://colab.research.google.com/drive/1nZg7kCNbGCytypYivUIol3UyHiukZwsw)
 
 <img src="/assets/fandango.jpg"  height="150"/>
 
@@ -112,7 +97,7 @@ The data used in the notebook was taken from Fivethirtyeight's Github.
 <br>
 <br>
  
-[<h3>10.Exploring Hacker News Posts</h3>](https://colab.research.google.com/drive/1VzxUKTIXDI3qIIdN3V4uWEpFhjg8DV3H)
+[<h3>9.Exploring Hacker News Posts</h3>](https://colab.research.google.com/drive/1VzxUKTIXDI3qIIdN3V4uWEpFhjg8DV3H)
 
 <img src="/assets/the-hacker-news.jpg"  height="150"/> 
 
